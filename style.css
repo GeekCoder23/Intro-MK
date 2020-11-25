@@ -1,0 +1,186 @@
+div {
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
+    padding: 50px;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+p {
+    line-height: 2;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+
+.dp {
+    width: 20%;
+    margin-bottom: 5px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+
+h1 {
+    margin-top: 50px;
+    margin: 2px;
+    font-family: 'Sacramento', sans-serif;
+    font-size: 60px;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: #66BFBF;
+    font-weight: bold;
+    line-height: 2px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+h3 {
+
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-weight: bold;
+}
+
+.intro {
+    width: 35%;
+    margin: auto;
+}
+
+body {
+    margin: 0px;
+}
+
+.top-container {
+    background-color: #E4f9f5;
+    position: relative;
+
+}
+
+.middle-container p {
+    color: #40514E;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+
+
+}
+
+.giphy-img {
+
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.hello-img {
+    width: 25%;
+    height: 150px;
+    float: right;
+    margin-right: 30px;
+}
+
+.skill-row h3,
+p {
+    margin-top: auto;
+}
+
+hr {
+    border-width: 6px;
+    border-style: dotted none none;
+    width: 6%;
+    border-color: #EAF6F6;
+}
+
+
+
+.bottom-container {
+
+    background: #66BFBF;
+    height: 20px;
+}
+
+.bottom-container p {
+    color: #EAF6F6;
+    font-size: 15px;
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+
+.bottom-cloud {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 5px;
+
+
+}
+
+
+.top-cloud {
+    position: relative;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+
+
+
+.footer-link {
+    color: #11999E;
+    text-decoration: none;
+    margin-right: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.footer-link:hover {
+    color: black;
+}
+
+
+
+.contact-me p {
+    margin: auto;
+    margin-bottom: 16px;
+}
+
+.myButton {
+    box-shadow: 0px 10px 14px -7px #276873;
+    background: linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+    background-color: #599bb3;
+    border-radius: 8px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 13px 32px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #3d768a;
+    margin: auto;
+}
+
+.myButton:hover {
+    background: linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+    background-color: #408c99;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
